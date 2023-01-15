@@ -23,4 +23,5 @@ This code is a great way to visualize the optimization path of the gradient desc
 ## Note
 This code is developed and tested on Google Colab, some modification may be required to run on other platforms.
 
+## Acknowledgments
 _This README was written by Chat-GPT_
