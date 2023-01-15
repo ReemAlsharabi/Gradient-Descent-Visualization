@@ -3,12 +3,11 @@ This repository contains a Python script that uses the Plotly library to create 
 
 ![alt text](https://github.com/ReemAlsharabi/Gradient-Descent-Visualization/blob/main/GD.gif)
 
-## Dependencies
-* Dependencies
-* plotly
+## Requirements
+This program requires the following python libraries:* plotly
 * numpy
+* plotly
 * ipywidgets
-* Usage
 
 ## To run the script
 _open the terminal and navigate to the repository's directory. Then use the command below:_
