@@ -18,9 +18,3 @@ The script will open a window with the 3D surface plot and the 3D scatter plot, 
 
 ## Conclusion
 This code is a great way to visualize the optimization path of the gradient descent algorithm in 3D and understand the impact of different parameters like learning rate and iteration on the optimization process.
-
-## Note
-This code is developed and tested on Google Colab, some modification may be required to run on other platforms.
-
-## Acknowledgments
-_This README was written by Chat-GPT_
